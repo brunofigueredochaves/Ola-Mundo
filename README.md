@@ -1,2 +1,3 @@
 # Olá, Mundo!
- Primeiro Repositório Sendo Criado.
+ **Primeiro** repositório sendo criado.
+ Apredendo bastante e gostando muito.
